@@ -1,0 +1,132 @@
+/* Reset some default styl
+body, h1, p, ul,
+    margi
+    paddin
+  /* Set a background color for the bo
+  b
+    background-color: #f2
+    font-family: Arial, sans-s
+  /* Style the head
+
+    font-family: 'Dancing Script', cur
+    font-size: 
+    text-align: ce
+
+
+
+
+
+
+
+    margin-top: 20px;
+
+
+
+
+
+
+
+  }
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  /* Style the paragraph */
+
+
+
+
+
+
+
+  p {
+
+
+
+
+
+
+
+    font-family: 'Josefin Sans', sans-serif;
+
+
+
+
+
+
+
+    font-size: 18px;
+
+
+
+
+
+
+
+    margin: 20px;
+  }
+  
+  /* Style the image */
+  img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Style the table */
+  table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  /* Style the unordered list */
+  ul {
+    list-style-type: disc;
+    margin: 20px;
+  }
+  
+  /* Style the ordered list */
+  ol {
+    list-style-type: decimal;
+    margin: 20px;
+  }
+  
+  /* Style list items */
+  li {
+    margin-bottom: 5px;
+  }
+  
+  /* Add some spacing to the top and bottom of lists */
+  ul, ol {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+  /* Add some margin to the bottom of the page */
+  body {
+    margin-bottom: 20px;
+  }
+  
